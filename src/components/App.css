@@ -1,0 +1,8 @@
+.appContainer {
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    align-Items: center;
+    font-Size: 40;
+    color: #010101;
+  }
